@@ -1,0 +1,3 @@
+hadoop pingping
+hadoop ss
+hadoop ss
